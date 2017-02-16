@@ -1,0 +1,22 @@
+{
+  "name": "Walkthrough",
+  "version": "0.1.0",
+  "summary": "A short description of Walkthrough.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Matthew Rigdon/Walkthrough",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Matthew Rigdon": "rigdonmr@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Matthew Rigdon/Walkthrough.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Walkthrough/Classes/**/*"
+}

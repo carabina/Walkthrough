@@ -1,0 +1,16 @@
+PODS:
+  - Walkthrough (0.1.0)
+
+DEPENDENCIES:
+  - Walkthrough (from `../`)
+
+EXTERNAL SOURCES:
+  Walkthrough:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Walkthrough: fd538d0d32b5312cd1d1ddfc719046e69e5aa003
+
+PODFILE CHECKSUM: 86654d85f7e34875a9c1a529235e434d166cd996
+
+COCOAPODS: 1.2.0
