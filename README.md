@@ -10,13 +10,15 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Swift 3
+
 ## Installation
 
 Walkthrough is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "Walkthrough"
+pod 'Walkthrough'
 ```
 
 ## Author
